@@ -1,5 +1,5 @@
-import logo from "./assets/logo.svg";
-import letStart from "./assets/let-start-illustration.svg";
+import logo from "../assets/logo.svg";
+import letStart from "../assets/let-start-illustration.svg";
 import { DialogTrigger } from "./ui/dialog";
 import { Button } from "./ui/button";
 import { Plus } from "lucide-react";
